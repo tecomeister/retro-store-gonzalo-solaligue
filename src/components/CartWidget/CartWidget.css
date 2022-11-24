@@ -1,0 +1,23 @@
+.cart__widget__container{
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: center;
+    color: black;
+    padding: 2.5px;
+}
+
+.cart__widget__container:hover{
+    background-color: rgb(175, 185, 155);
+    filter: invert();
+}
+
+.cart__widget__container__img{
+    width: 20px;
+    height: 20px;
+    margin-right: 5px;
+}
+
+.cart__widget__container__text{
+    font-weight: bold;
+    font-size: large;
+}
