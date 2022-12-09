@@ -1,0 +1,32 @@
+.item__detail{
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.item__detail__img{
+  width: 200px;
+  height: 200px;
+  object-fit: contain;
+}
+
+.item__detail__title{
+  color: black;
+  font-family: monospace;
+  font-size: x-large;
+}
+
+.item__detail__description{
+  color: black;
+  font-family: monospace;
+  font-size: large;
+}
+
+.item__detail__price{
+  color: black;
+  font-family: monospace;
+  font-size: large;
+  font-weight: bold;
+}

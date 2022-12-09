@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "img": "/img/NXTC.png",
+    "name": "NeXTCube",
+    "category": "computers",
+    "price": 200000,
+    "description": "Computadora NeXTCube.",
+    "stock": 7
+  },
+  {
+    "id": 2,
+    "img": "/img/MII.png",
+    "name": "Macintosh II",
+    "category": "computers",
+    "price": 150000,
+    "description": "Computadora Macintosh II.",
+    "stock": 3
+  },
+  {
+    "id": 3,
+    "img": "/img/FDS.png",
+    "name": "Famicom + Disk System",
+    "category": "consoles",
+    "price": 50000,
+    "description": "Consola Famicom con FDS",
+    "stock": 5
+  },
+  {
+    "id": 4,
+    "img": "/img/64DD.png",
+    "name": "Nintendo 64 + DD",
+    "category": "consoles",
+    "price": 75000,
+    "description": "Consola Nintendo 64 con N64-DD",
+    "stock": 10
+  },
+  {
+    "id": 5,
+    "img": "/img/KFPS1.png",
+    "name": "Kings Field PS1",
+    "category": "games",
+    "price": 25000,
+    "description": "Juego Kings Field para PS1",
+    "stock": 20
+  },
+  {
+    "id": 6,
+    "img": "/img/KDFAMI.png",
+    "name": "Kid Dracula Famicom",
+    "category": "games",
+    "price": 10000,
+    "description": "Juego Kid Dracula para Famicom",
+    "stock": 15
+  }
+]

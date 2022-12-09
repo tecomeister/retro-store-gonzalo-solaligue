@@ -1,0 +1,24 @@
+.item__card{
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 200px;
+  height: 200px;
+}
+
+.item__card__img{
+  width: 100px;
+  height: 100px;
+  object-fit: contain;
+}
+
+.item__card__text{
+  margin-top: 5px;
+  color: black;
+}
+
+.item__card__link{
+  text-decoration: none;
+}

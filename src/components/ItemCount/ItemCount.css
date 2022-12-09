@@ -1,0 +1,50 @@
+.item__count{
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+  justify-content: center;
+  margin: 10px;
+}
+
+.item__count__counter{
+  display: flex;
+  flex-flow: row wrap;
+  align-items:center;
+  justify-content:space-evenly;
+  height: 20px;
+  background: linear-gradient(360deg, rgba(0,0,0,1) 0%, rgba(211,211,211,1) 9%, rgba(211,211,211,1) 91%, rgba(255,255,255,1) 100%);
+  border: 1px solid black;
+  box-shadow: 2px 2px 2px #0000004b;
+}
+
+.item__count__counter__minus{
+  height: 20px;
+  width: 20px;
+  background: none;
+  border: none;
+}
+
+.item__count__counter__text{
+  font-family: monospace;
+  height: 20px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.item__count__counter__plus{
+  height: 20px;
+  width: 20px;
+  background: none;
+  border: none;
+}
+
+.item__count__cart__btn{
+  font-family: monospace;
+  margin-left: 10px;
+  padding-left: 5px;
+  padding-right: 5px;
+  height: 20px;
+  background: linear-gradient(360deg, rgba(0,0,0,1) 0%, rgba(211,211,211,1) 9%, rgba(211,211,211,1) 91%, rgba(255,255,255,1) 100%);
+  border: 1px solid black;
+  box-shadow: 2px 2px 2px #0000004b;
+}

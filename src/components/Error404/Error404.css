@@ -1,4 +1,4 @@
-.item__list__menu{
+.error__menu{
     display: flex;
     flex-flow: row wrap;
     justify-content: center;
@@ -11,26 +11,26 @@
     box-shadow: 10px 10px 5px #0000004b;
 }
 
-.item__list__menu__text{
+.error__menu__text{
     color: black;
     font-size: x-large;
     padding: 5px;
 }
 
-.item__list__container{
+.error__container{
     display: flex;
     flex-flow: column wrap;
     justify-content: center;
     align-items: center;
     margin: auto;
     width: 75vw;
-    height: auto;
+    height: 65vh;
     background-color: rgb(236, 236, 236);
     border: 2px solid black;
     box-shadow: 10px 10px 5px #0000004b;
 }
 
-.item__list__container__text{
+.error__container__text{
     color: black;
     font-size: x-large;
 }
